@@ -1,3 +1,5 @@
+use mavenmovies;
+
 -- select
 --       replacement_cost,
 --       count(film_id) as number_of_films,
